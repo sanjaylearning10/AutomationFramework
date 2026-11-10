@@ -1,0 +1,30 @@
+2025-07-20 11:44:23 [main] INFO com.listeners.ITestListner::onStart::48 Test Suite started... 
+2025-07-20 11:44:24 [TestNG-test-Login Test-1] INFO com.listeners.ITestListner::onTestStart::24 loginTest 
+2025-07-20 11:44:24 [TestNG-test-Login Test-1] INFO com.listeners.ITestListner::onTestStart::25 validate user is able to login with valid cred 
+2025-07-20 11:44:24 [TestNG-test-Login Test-1] INFO com.listeners.ITestListner::onTestStart::26 [e2e, sanity] 
+2025-07-20 11:44:24 [TestNG-test-Login Test-1] ERROR com.listeners.ITestListner::onTestFailure::36 Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "com.utility.BrowserUtility.getDriver()" is null 
+2025-07-20 11:44:24 [TestNG-test-Login Test-1] ERROR com.listeners.ITestListner::onTestFailure::36 Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "screenshot" is null 
+2025-07-20 11:44:24 [TestNG-test-Login Test-3] INFO com.listeners.ITestListner::onTestStart::24 loginTestCsv 
+2025-07-20 11:44:24 [TestNG-test-Login Test-3] INFO com.listeners.ITestListner::onTestStart::25 validate user is able to login with cred from csv 
+2025-07-20 11:44:24 [TestNG-test-Login Test-3] INFO com.listeners.ITestListner::onTestStart::26 [e2e, sanity] 
+2025-07-20 11:44:24 [TestNG-test-Login Test-3] ERROR com.listeners.ITestListner::onTestFailure::36 Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "com.utility.BrowserUtility.getDriver()" is null 
+2025-07-20 11:44:24 [TestNG-test-Login Test-3] ERROR com.listeners.ITestListner::onTestFailure::36 Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "screenshot" is null 
+2025-07-20 11:44:25 [TestNG-test-Login Test-4] INFO com.listeners.ITestListner::onTestStart::24 loginTestExcel 
+2025-07-20 11:44:25 [TestNG-test-Login Test-2] INFO com.listeners.ITestListner::onTestStart::24 loginTestRetry 
+2025-07-20 11:44:25 [TestNG-test-Login Test-4] INFO com.listeners.ITestListner::onTestStart::25 validate user is able to login with cred from excel 
+2025-07-20 11:44:25 [TestNG-test-Login Test-2] INFO com.listeners.ITestListner::onTestStart::25 validate user is able to login with cred from excel and rety in case of failure 
+2025-07-20 11:44:25 [TestNG-test-Login Test-4] INFO com.listeners.ITestListner::onTestStart::26 [e2e, sanity] 
+2025-07-20 11:44:25 [TestNG-test-Login Test-2] INFO com.listeners.ITestListner::onTestStart::26 [] 
+2025-07-20 11:44:25 [TestNG-test-Login Test-4] ERROR com.listeners.ITestListner::onTestFailure::36 Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "com.utility.BrowserUtility.getDriver()" is null 
+2025-07-20 11:44:25 [TestNG-test-Login Test-4] ERROR com.listeners.ITestListner::onTestFailure::36 Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "screenshot" is null 
+2025-07-20 11:44:25 [TestNG-test-Login Test-2] INFO com.listeners.ITestListner::onTestStart::24 loginTestRetry 
+2025-07-20 11:44:25 [TestNG-test-Login Test-2] INFO com.listeners.ITestListner::onTestStart::25 validate user is able to login with cred from excel and rety in case of failure 
+2025-07-20 11:44:25 [TestNG-test-Login Test-2] INFO com.listeners.ITestListner::onTestStart::26 [] 
+2025-07-20 11:44:25 [TestNG-test-Login Test-2] INFO com.listeners.ITestListner::onTestStart::24 loginTestRetry 
+2025-07-20 11:44:25 [TestNG-test-Login Test-2] INFO com.listeners.ITestListner::onTestStart::25 validate user is able to login with cred from excel and rety in case of failure 
+2025-07-20 11:44:25 [TestNG-test-Login Test-2] INFO com.listeners.ITestListner::onTestStart::26 [] 
+2025-07-20 11:44:25 [TestNG-test-Login Test-2] INFO com.listeners.ITestListner::onTestStart::24 loginTestRetry 
+2025-07-20 11:44:25 [TestNG-test-Login Test-2] INFO com.listeners.ITestListner::onTestStart::25 validate user is able to login with cred from excel and rety in case of failure 
+2025-07-20 11:44:25 [TestNG-test-Login Test-2] INFO com.listeners.ITestListner::onTestStart::26 [] 
+2025-07-20 11:44:25 [TestNG-test-Login Test-2] ERROR com.listeners.ITestListner::onTestFailure::36 Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "com.utility.BrowserUtility.getDriver()" is null 
+2025-07-20 11:44:25 [TestNG-test-Login Test-2] ERROR com.listeners.ITestListner::onTestFailure::36 Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "screenshot" is null 
